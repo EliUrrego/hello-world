@@ -1,11 +1,12 @@
 h1 {
     color: dodgerblue;
-    background-color: orange;
+
+    background-color: gold;
+}
+body {
+    background-color: aqua;
 }
 
-body {background-color:white;
-
-}
 
 h2{background:grey
 } 
